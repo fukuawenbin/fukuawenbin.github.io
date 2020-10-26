@@ -1,6 +1,6 @@
 <!-- docs/cover.md -->
 
-![logo](https://image.bobankh.com/2020/07/01/0700209a4d111.svg)
+![logo](https://raw.githubusercontent.com/fukuawenbin/tuku/main/qrcode_for_gh_b53743bedb90_258%20(1).jpg)
 
 # Linux Beginner
 
